@@ -1,4 +1,4 @@
-# `check_swap_all.sh` — Audit du swap sur VMs & CTs Proxmox (PVE)
+# Audit du swap sur VMs & CTs Proxmox (PVE)
 
 🔍 **Objectif**  
 Lister, en un seul passage, l’état du **swap** et de la **mémoire** pour un ensemble de **VMs** et de **containers LXC** sur un hôte **Proxmox VE**.  
